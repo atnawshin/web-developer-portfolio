@@ -63,7 +63,7 @@ nav a {
 /* Header related style */
 .header {
     background-color: #FFF8F3;
-    background-image: url("../images/header_bg.png"),url("../images/developer.png");
+    background-image: url("../images/header_bg.png"), url("../images/developer.png");
     background-repeat: no-repeat;
     background-position: bottom right, top left;
 }
@@ -140,7 +140,7 @@ main section {
 }
 
 .skill {
-    padding: ;
+    padding: 0;
     border-radius: 5px;
     background: #FFF;
     box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
@@ -201,7 +201,7 @@ footer {
     width: 50%;
 }
 
-.social-links a{
+.social-links a {
     margin-right: 25px;
 }
 
